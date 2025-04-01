@@ -9,5 +9,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/sudaisontopxd/BladeBa
 elseif game.PlaceId == 17262329365 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sudaisontopxd/X500-CLICKS-Mega-Clickers/refs/heads/main/MegaCLickersSXC"))()
 else
-    game:GetService("Players").LocalPlayer:Kick("Get In A Script Supported Game")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/sudaisontopxd/AllGamesHub/refs/heads/main/SudaisHubUniversalAllGames"))()
 end
